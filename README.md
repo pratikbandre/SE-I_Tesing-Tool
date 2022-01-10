@@ -1,4 +1,4 @@
-# Project Name : Test tool for Validatation on General Purpose Calculator.
+# Project Name : Test tool for Validatation on General Purpose Calculator
 
 Calculator folder contains the code of calculator which can be run to perform general mathematical calculations.
 
